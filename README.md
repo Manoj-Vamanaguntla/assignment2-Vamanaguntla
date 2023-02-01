@@ -15,3 +15,14 @@
 * Rajasthan Royals
 * Royal Challegers Banglore <br>
 [Redirecting to Aboutme.md repo and image](AboutMe.md)
+
+---
+
+# My Bucketlist Countries
+I would like to visit this countries that are mentioned in the below table.
+
+| **Name_of_the_Country** | **Visiting Reason** | **Days to stay** |
+| --- | :---: | ---: |
+| Italy | It's best for its 'Eternal City' The timeless city of Rome is just bursting with incredible sites' | 20 |
+| Switzerland | Best for hiking Experience | 15 |
+| France | Best travel back in time place and to explore beautifully preserved historic towns | 30 |
