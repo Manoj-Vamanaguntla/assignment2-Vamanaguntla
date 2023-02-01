@@ -16,6 +16,7 @@
 * Royal Challegers Banglore <br>
 
 [Redirecting to Aboutme.md repo and image](AboutMe.md)
+
 ---
 
 # My Bucketlist Countries
@@ -27,3 +28,10 @@ I would like to visit this countries that are mentioned in the below table.
 | Switzerland | Best for hiking Experience | 15 |
 | France | Best travel back in time place and to explore beautifully preserved historic towns | 30 |
 | India | Best for its traditions and tasty food | 60 |
+
+---
+
+> The road to success is always under construction
+>> Lily Tomlin
+>I'm in shape. Round is a shape
+>> George Carlin
