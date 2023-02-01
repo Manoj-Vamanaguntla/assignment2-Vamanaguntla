@@ -14,7 +14,7 @@
 * Mumbai Indians
 * Rajasthan Royals
 * Royal Challegers Banglore <br>
-[Redirecting to Aboutme.md repo and image](AboutMe.md)
+
 
 ---
 
