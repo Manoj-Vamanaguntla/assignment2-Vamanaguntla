@@ -32,6 +32,6 @@ I would like to visit this countries that are mentioned in the below table.
 ---
 
 > The road to success is always under construction<br>
->>   *Lily Tomlin*
->I'm in shape. Round is a shape
->> - *George Carlin*
+>> *Lily Tomlin*
+>I'm in shape. Round is a shape<br>
+>> *George Carlin*
