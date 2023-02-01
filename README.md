@@ -40,7 +40,7 @@ I would like to visit this countries that are mentioned in the below table.
 
 > Post Data to an Iframe
 
-[Stack URL](https://stackoverflow.com/questions/168455/how-do-you-post-to-an-iframe)
+Stack flow URL <https://stackoverflow.com/questions/168455/how-do-you-post-to-an-iframe>
 
 ````
 <form action="iframe.php" target="my-iframe" method="post">
@@ -54,4 +54,4 @@ I would like to visit this countries that are mentioned in the below table.
 		
 <iframe name="my-iframe" src="iframe.php"></iframe>
 ````
-[CSS-TRICK SOURCE](https://css-tricks.com/snippets/html/post-data-to-an-iframe/)
+CSS-TRICK SOURCE <https://css-tricks.com/snippets/html/post-data-to-an-iframe/>
