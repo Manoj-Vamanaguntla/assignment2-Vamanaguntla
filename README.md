@@ -33,3 +33,25 @@ I would like to visit this countries that are mentioned in the below table.
 
 > The road to success is always under construction - *Lily Tomlin*<br>
 > I'm in shape. Round is a shape - *George Carlin*
+
+---
+
+# Code Fencing 
+
+> Post Data to an Iframe
+
+[Stack URL](https://stackoverflow.com/questions/168455/how-do-you-post-to-an-iframe)
+
+````
+<form action="iframe.php" target="my-iframe" method="post">
+			
+  <label for="text">Some text:</label>
+  <input type="text" name="text" id="text">
+			
+  <input type="submit" value="post">
+			
+</form>
+		
+<iframe name="my-iframe" src="iframe.php"></iframe>
+````
+[CSS-TRICK SOURCE](https://css-tricks.com/snippets/html/post-data-to-an-iframe/)
