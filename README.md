@@ -10,3 +10,7 @@
 1. MSD
 2. Ambati Rayudu
 3. Jadeja
+
+* Mumbai Indians
+* Rajasthan Royals
+* Royal Challegers Banglore <br>
