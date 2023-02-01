@@ -26,3 +26,4 @@ I would like to visit this countries that are mentioned in the below table.
 | Italy | It's best for its 'Eternal City' The timeless city of Rome is just bursting with incredible sites' | 20 |
 | Switzerland | Best for hiking Experience | 15 |
 | France | Best travel back in time place and to explore beautifully preserved historic towns | 30 |
+| India | Best for its traditions and tasty food | 60 |
